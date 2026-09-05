@@ -167,4 +167,8 @@ No real customer funds are processed.
 │ -  HMAC SHA-256 verification, when configured           │
 │ -  Persistent SQLite audit events                       │
 └────────────────────────────────────────────────────────┘
+
+GitHub Repository URL: [https://github.com/galetianand/AgentReady](https://github.com/galetianand/AgentReady)
+
+5-min Pitch Video Link: [https://youtu.be/6zsDSQMiY5M](https://youtu.be/6zsDSQMiY5M)
 ```
